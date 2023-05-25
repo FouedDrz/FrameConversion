@@ -1,6 +1,6 @@
 /*
     Le code Arduino ci-dessous est un exemple de mise en œuvre d'un algorithme
-    pour calculer des frames.
+    pour la conversion en frame.
     L'algorithme proposé effectue les opérations suivantes :
     Il déclare un tableau de nombres à virgule flottante appelé "vect" avec une taille de 3000.
     Il déclare un pointeur de pointeur de flottants appelé "sframe"
